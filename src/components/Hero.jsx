@@ -8,7 +8,7 @@ const Hero = () => {
       {/* 3D Spline background */}
       <div className="absolute inset-0">
         <Spline
-          scene="https://prod.spline.design/WCoEDSwacOpKBjaC/scene.splinecode"
+          scene="https://prod.spline.design/VJLoxp84lCdVfdZu/scene.splinecode"
           style={{ width: '100%', height: '100%' }}
         />
       </div>
@@ -20,7 +20,7 @@ const Hero = () => {
       <div className="relative z-10 mx-auto flex max-w-7xl flex-col items-center px-6 pt-28 pb-16 text-center md:pt-36">
         <span className="inline-flex items-center gap-2 rounded-full border border-white/10 bg-white/5 px-4 py-1.5 text-sm text-white/80 backdrop-blur">
           <Rocket className="h-4 w-4 text-teal-300" />
-          Building the future of tech
+          Techatronix — building the future of tech
         </span>
         <h1 className="mt-6 font-extrabold tracking-tight text-4xl leading-tight sm:text-5xl md:text-6xl">
           Your End‑to‑End Technology Partner
